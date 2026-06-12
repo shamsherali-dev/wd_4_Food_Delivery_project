@@ -1,0 +1,31 @@
+Project #  = WP Hosuing;
+
+ thems and plugins  required ::
+  elementor ;
+
+Elemenentor --  https://bloggdude.com/elementor
+Woostify --  https://bloggdude.com/woostify
+Images & CSS Codes Download -- https://bloggdude.com/how-to-make-a-f...
+woocoemmerce ;
+TI woocommerce whislist = whisllist
+
+variation swatches for woocommerce = is used to create variation like , small size , meduim and large ;
+contact form 7 ; 
+class widgets 
+Adavnced Products Fields
+kikote = used for pick current location of user ;
+
+icons8.com = for download the icons
+flaticon = for donloaded the icons 
+
+plugin = Local Delivery Drivers for WooCommerce ;
+
+latlong.net =  website for latitude and lognitute ;
+
+
+
+
+
+
+
+ 
